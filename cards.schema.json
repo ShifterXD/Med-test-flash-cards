@@ -1,0 +1,14 @@
+{
+  "format_version": "1.0",
+  "description": "Flashcards for FSP Stuttgart medical terminology. The app requires id/topic/question/answer; additional fields are preserved for filtering and metadata.",
+  "fields": {
+    "id": "Stable card identifier",
+    "topic": "Topic/category for filtering",
+    "question": "Prompt shown on the front of the card",
+    "answer": "Expected answer shown after reveal",
+    "difficulty": "basic | medium | high-priority, derived from Häufigkeit",
+    "frequency": "Häufigkeit value from source table",
+    "term": "Medical term",
+    "source": "Original source filename"
+  }
+}

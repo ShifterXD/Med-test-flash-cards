@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FSP Flash Cards — Spaced Repetition</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <section class="hero" aria-labelledby="app-title">
+      <div>
+        <p class="eyebrow">Anki-like spaced repetition</p>
+        <h1 id="app-title">Флеш-карточки FSP</h1>
+        <p class="subtitle">Открой ответ, оцени себя: «Не знаю», «Сложно» или «Легко». Сайт сохранит расписание повторений в localStorage и чаще вернёт слабые карточки.</p>
+      </div>
+      <div class="stats" aria-label="Прогресс повторений">
+        <span id="progressText">0 / 0</span>
+        <small>оценено сегодня</small>
+      </div>
+    </section>
+
+    <section class="toolbar" aria-label="Настройки карточек">
+      <label for="topicFilter">Тема</label>
+      <select id="topicFilter" disabled>
+        <option value="all">Все темы</option>
+      </select>
+      <button id="shuffleButton" type="button" disabled>Перемешать очередь</button>
+      <button id="resetButton" type="button" disabled>Сбросить прогресс</button>
+    </section>
+
+    <section id="status" class="status" role="status" aria-live="polite">Загрузка карточек…</section>
+
+    <article class="card" aria-labelledby="cardQuestion">
+      <div class="card-meta">
+        <span id="cardTopic">Тема</span>
+        <span id="cardNumber">Карточка 0</span>
+        <span id="cardDue">Новая</span>
+      </div>
+      <h2 id="cardQuestion">—</h2>
+      <div id="answerPanel" class="answer-panel" hidden>
+        <p class="answer-label">Ответ</p>
+        <p id="cardAnswer">—</p>
+      </div>
+      <div class="button-row primary-actions">
+        <button id="showAnswerButton" type="button" disabled>Показать ответ</button>
+      </div>
+      <div id="ratingPanel" class="rating-panel" hidden aria-label="Оценка ответа">
+        <button class="rating rating-again" type="button" data-rating="again">
+          <strong>Не знаю</strong><span>повторить очень скоро</span>
+        </button>
+        <button class="rating rating-hard" type="button" data-rating="hard">
+          <strong>Сложно</strong><span>короткий интервал</span>
+        </button>
+        <button class="rating rating-easy" type="button" data-rating="easy">
+          <strong>Легко</strong><span>увеличить интервал</span>
+        </button>
+      </div>
+    </article>
+
+    <section class="progress-wrap" aria-label="Индикатор прогресса">
+      <div class="progress-bar"><span id="progressBar"></span></div>
+      <p id="finishText" class="finish-text"></p>
+    </section>
+  </main>
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,323 @@
+00 FSP Stuttgart.md                                                                                                                                                            2025-04-05
+Abkürzungen:
+·   poly. = polyseme Begriffe (ein Wort mit mehreren, verschiedenen Bedeutungen) werden mit arabischen Ziffern durchnummeriert.
+Sterilität (poly.) = 1. Keimfreiheit / 1. Unfruchtbarkeit
+Häufigkeit     Fachbegriff                          Umgangssprache
+/
+/
+/
+/
+/
+/
+/
+/
+3                    Zytostatika                               Medikamente zur Krebsbehandlung
+ACHTUNG: Die neuen Fachbegriffe ab Oktober 2023 sind nicht in dieser Tabelle, aber sie sind verfügbar als "Anki-Karten" (siehe unten!)
+
+[TABLE 1]
+1 || Abdomen || Bauch
+1 || Abduktion || Wegspreizen einer Extremität nach außen
+1 || Ablatio mammae || Brustamputation
+1 || Abort || Fehlgeburt
+2 || Abszess || Eiteransammlung in einem nicht vorbestehenden Hohlraum
+3 || Abusus || Missbrauch (Alkohol, Drogen, Medikamente, Tabak)
+1 || Adaptation || Anpassung
+2 || Adenotomie || operative Entfernung der Rachenmandel
+1 || adipös || fettleibig
+1 || Adoleszenz || Jugendalter
+1 || Adventitia || äußere Schicht der Blutgefäßwand
+1 || Adynamie || Antriebslosigkeit
+1 || Aerobie || Leben, das Sauerstoff (O2) benötigt
+1 || Affekt || starke, kurz andauernde Gemütsbewegung
+1 || Agglutination || Verklumpung
+1 || aggravieren || eine Krankheit übertrieben darstellen
+2 || Akkommodation || 1. Anpassung 2. Scharfeinstellung des Auges
+2 || Akren || die äußersten Teile des Körpers
+2 || Akromegalie || Vergrößerung der äußersten Körperteile
+1 || Albino || Lebewesen mit angeborenem Pigmentmangel
+1 || Alkalose || Erhöhung des pH-Werts in Blut und Geweben
+1 || Allergen || Stoff, der eine Allergie hervorrufen kann
+4 || Allergie || Krankheit mit starker Überempfindlichkeit auf einen bestimmten Stoff
+1 || allergisch || krankhaft überempfindlich auf einen bestimmten Stoff
+1 || Alopezie || Haarausfall
+1 || Altinsulin || Insulin ohne verzögernde Zusätze
+
+[TABLE 2]
+Häufigkeit || Fachbegriff || Umgangssprache
+1 || Amenorrhö || Ausbleiben der Menstruation
+2 || Amnioskopie || Fruchtwasserspiegelung
+1 || anaerob || ohne Sauerstoff
+1 || Analgesie || Schmerzbekämpfung
+1 || Analgetikum || Schmerzmittel
+2 || anamnestisch || zur Vorgeschichte des Kranken gehörend
+2 || anämisch || blutarm
+4 || Anästhesie || Narkose
+2 || Anatomie || Lehre vom Bau des Körpers
+3 || Androgene (pl.) || männliche Sexualhormone
+1 || Aneurysma || umschriebene Erweiterung einer Schlagader
+2 || Angina Pectoris || Herzschmerzen infolge einer Durchblutungsstörung der Herzkranzgefäße
+1 || Angulus || Winkel
+1 || Anorexia nervosa || Magersucht
+4 || Antagonist || Gegenspieler, gegensätzlich wirkendes Organ oder Medikament
+1 || anterior || vorderer
+2 || Antiarrhythmika || Arzneimittel zur Behandlung von Herzrhythmusstörungen
+1 || Antibiotika || Arzneimittel zur Bekämpfung von Bakterien
+1 || Anticholinergikum || ein Wirkstoff, der die Wirkung von Acetylcholin unterdrückt
+2 || Antiemetika || Mittel gegen Übelkeit und Brechreiz
+1 || Antiepileptika || Arzneimittel gegen Epilepsie
+2 || Antikonvulsiva || Mittel zur Behandlung der verschiedenen Epilepsieformen
+1 || Antikörper || Abwehrstoffe im Blut gegen artfremde Eiweiße
+1 || Antipyretikum || fiebersenkendes Mittel
+1 || Antiseptika || keimtötendes Mittel
+2 || Antiseptikum || keimtötendes Mittel
+1 || Aortenklappeninsuffizienz || mangelhafte Schluss der Aortenklappe des Herzens
+2 || Apathie || Teilnahmslosigkeit
+
+[TABLE 3]
+Häufigkeit || Fachbegriff || Umgangssprache
+3 || apathogen || nicht krankmachend
+1 || Apgar-Schema || Schema zur Vitalitätsbeurteilung des Neugeborenen
+3 || Aphasie || Sprachverlust durch Störung des Sprachzentrums
+1 || Apoplektischer Insult || Schlaganfall
+1 || Appendizitis || Wurmfortsatzentzündung
+1 || Arteria pulmonalis || Lungenschlagader
+2 || Aszites || Bauchödem, Flüssigkeitsansammlung in der freien Bauchhöhle
+1 || Ataxie || Störung der Bewegungskoordination
+1 || Atelektase || kollabierten Lungenabschnitt, der mit wenig oder keiner Luft gefüllt ist
+2 || ätiologisch || die Krankheitsursachen betreffend
+1 || Atrophie || Schwund
+1 || aurikular || die Ohren betreffend, zum Ohr gehörig
+1 || auskultatorisch || durch Abhorchen
+2 || Bakteriämie || Vorhandensein von Bakterien im Blut
+3 || Bakteriostase || Keimhemmung; Verhinderung des Keimwachstums und der Keimvermehrung ohne Abtötung
+2 || bakterizid || bakterientötend
+3 || bilateral || beidseitig
+3 || Bride || Verwachsung
+1 || Bronchiale Asthma || Atemnoterkrankung, anfallsweise auftretende Atemnot
+3 || Bursa || Beutel; Schleimbeutel
+1 || cardiogen || seine Ursache im Herzen habend
+1 || Cephalgie || Kopfschmerz
+1 || cerebralis || zum Großhirn gehörig, cerebral, zerebral
+1 || Chemotherapie || medikamentöse Therapie von Krebserkrankungen
+3 || Cholestase || Gallestauung
+1 || Colitis || Dickdarmentzündung
+2 || Colon irritabile || Reizdarmsyndrom
+1 || Coxa || Hüfte
+
+[TABLE 4]
+Häufigkeit || Fachbegriff || Umgangssprache
+1 || Coxa valga || relativ steilen Stand des oberen Endes vom | Oberschenkelknochen
+2 || Dehydratation || Abnahme des Körperwassers
+1 || Dekade || zehn Stück; Zeitraum von zehn Tagen, Wochen, Monaten oder Jahren
+1 || Delirium tremens || Alkoholdelir, bei [Alkohol]vergiftungen auftretendes Delirium
+1 || depressiv || niedergeschlagen
+1 || Dermatitis || Entzündung der Haut
+1 || Dermis || Haut
+1 || Diagnosis ex juvantibus || Diagnose anhand des Erfolges oder Misserfolges der Therapie
+1 || Diarrhö || Durchfall
+2 || Dislokation || Verschiebung von Knochenbruchstücken
+2 || Disposition || Anfälligkeit
+1 || Distorsion || Verstauchung, Zerrung eines Gelenks
+1 || Diuretika || harntreibende Mittel/Mittel zur Anregung der Wasserausscheidung
+1 || Dorsal || rückseitig
+1 || Dorsum || Rücken
+2 || Duodenalsonde || Zwölffingerdarmsonde
+1 || Dysarthrie || Sprachstörung
+1 || Dysmenorrhö || schmerzhafte Regelblutung
+1 || Emesis || Erbrechen
+1 || Enuresis nocturna || (nächtliches) Bettnässen
+1 || Epididymistorsion || Hodenverdrehung
+2 || Epididymitis || Nebenhodenentzündung
+1 || Epiglottis || Kehldeckel
+1 || Exophthalmus || krankhaftes Vortreten des Augapfels
+2 || Expektorantien || auswurffördernde Mittel
+1 || exsikkiert || ausgetrocknet
+2 || Exsikkose || Austrocknung
+
+[TABLE 5]
+Häufigkeit || Fachbegriff || Umgangssprache
+1 || Exstirpation || völlige Entfernung
+1 || Falx cerebri || die größte Verdoppelung der Hirnhaut
+6 || Femur || Oberschenkelknochen
+1 || Fibrose || Vermehrung von Bindegewebe
+2 || Fibula || Wadenbein
+1 || Fissur || Riss
+1 || Flexion || Beugung
+1 || Flexur || Biegung
+1 || fluktuirend || (von abgekapselten Körperflüssigkeiten) hin und her schwappen
+1 || Fornix cerebri || eine Struktur des Limbischen Systems im Großhirn
+1 || Fraktur || Knochenbruch
+1 || Gangrän || Zerfall des Gewebes
+2 || genetisch || erblich
+1 || Genitalien (pl.) || Geschlechtsorgane
+1 || Genu valgum || X-Bein
+1 || Gibbus || Buckel
+1 || Glandula lacrimalis || Tränendrüse
+1 || Gravidität || Schwangerschaft
+2 || Hallux valgus || Schiefstand des Großzehs, bei dem dieser in Richtung der kleinen Zehen abweicht
+2 || Halluzination || Sinnestäuschung
+1 || Hämatemesis || Bluterbrechen
+1 || Hämatokolpos || Blutansammlung in der Scheide
+1 || Hämaturie || Beimengung von Blut im Urin
+5 || Hemikolektomie || operative Entfernung einer Dickdarmhälfte
+1 || Hepar || Leber
+1 || Hepatomegalie || Lebervergrößerung
+1 || Heredität || Erblichkeit
+1 || Hernie || Eingeweidebruch
+
+[TABLE 6]
+Häufigkeit || Fachbegriff || Umgangssprache
+1 || Hydrops || Flüssigkeitsansammlung in einer Körperhöhle
+1 || Hydrozephalus || Wasserkopf
+2 || Hygiene || Gesundheitslehre
+1 || Hiperemesis gravidarum || unstillbares Schwangerschaftserbrechen
+1 || Hyperhidrose || krankhaft gesteigerte Schweißabsonderung
+1 || Hyperhidrosis || krankhaft gesteigerte Schweißabsonderung
+1 || Hyperkeratose || Verdickung der Hornschicht der Haut
+1 || Hyperthyreose || Überfunktion der Schilddrüse
+1 || Hyposensibilisierung || Desensibilisierung
+1 || Hypothyreose || Unterfunktion der Schilddrüse
+1 || i.m. || intramuskulär
+1 || imperative Miktion || Harndrang
+1 || incompliance (engl.) || Nichtbeachtung
+1 || Indolenz || Schmerzlosigkeit, Gleichgültigkeit gegenüber Schmerzen
+1 || Influenza || Grippe
+1 || Inhalation || Einatmung von Heilmitteln (in Form von Dämpfen)
+1 || Inkontinenz || Unfähigkeit, Harn oder Stuhl zurückzuhalten
+2 || Interkostalneuralgie || Schmerzen im Bereich der Zwischenrippennerven
+1 || Inzidenz || Anzahl der Neuerkrankungen
+1 || irreversibel || nicht umkehrbar
+1 || Jejunitis || Entzündung des Leerdarms
+1 || Kachexie || starke Abmagerung mit Kräfteverfall
+2 || Kardiomegalie || Herzvergrößerung
+4 || Katarakt || grauer Star
+1 || kaudal || steißwärts
+3 || Kolektomie || operative Dickdarmentfernung
+1 || Kolpitis || Scheidenentzündung
+1 || Kolonoskopie || Darmspiegelung
+4 || Kontamination || Verunreinigung
+1 || Koronararterienstenose || Gefäßverengung der Herzkranzgefäße
+
+[TABLE 7]
+Häufigkeit || Fachbegriff || Umgangssprache
+1 || kranial || zum Kopf gehörig
+3 || kurativ || heilend
+1 || Läsion || Verletzung; Schädigung
+1 || letal || tödlich
+1 || Letalität || Tödlichkeit einer Erkrankung
+4 || Lipom || gutartige Fettgeschwulst
+2 || liquid || flüssig
+1 || livoris || Leichenblässe
+1 || Lumbago || Hexenschuss
+1 || Lungenembolie || Verschluss einer Lungenarterie durch Blutgerinnsel
+1 || Makula || gelber Fleck
+3 || maligne || bösartig
+4 || Meläna || durch Blut schwarz gefärbter Stuhl
+3 || Meningitis || Hirnhautentzündung
+1 || Metabolismus || Stoffwechsel
+1 || Meteorismus || übermäßige Gasansammlung im Darm
+1 || Mykose || Pilzerkrankung
+1 || Myopie || Kurzsichtigkeit
+2 || Nephrektomie || operative Entfernung einer Niere
+2 || nosokomial || das Krankenhaus betreffend
+2 || Nucleus || Kern
+2 || Obstipation || Verstopfung
+1 || okzipital || zum Hinterhaupt gehörend
+2 || Ophthalmoplegia || Augenmuskellähmung
+2 || os carpi || Handwurzelknochen
+1 || Os coccyx || Steißbein
+1 || Os ilium || Darmbein
+1 || Ösophago-Gastro- | Duodenoskopie (ÖGD) || Magenspiegelung
+2 || Ösophagus || Speiseröhre
+
+[TABLE 8]
+Häufigkeit || Fachbegriff || Umgangssprache
+2 || Os pubis || Schambein
+2 || Ossa || Knochen
+1 || Os tarsi || Fußwurzelknochen
+2 || Osteoporose || Knochenschwund
+1 || Osteosynthese || operatives Zusammenfügen von Knochenbruchstücken
+1 || Otitis || Ohrenentzündung
+1 || palliativ || lindernd (ohne zu heilen)
+1 || palmar || handflächenseitig
+1 || Palpation || Untersuchung durch Betasten
+1 || Pankreas || Bauchspeicheldrüse
+3 || Parkinson || Schüttellähmung, Zitterlähmung
+1 || pCO2 || Kohlendioxid-Partialdruck
+2 || Perforation || Durchbruch
+1 || perkussorisch || durch Perkussion nachweisbar
+2 || Pertrochantäre Femurfraktur || Knochenbruch der Oberseite des Oberschenkelknochens
+1 || Pharyngitis || Rachenentzündung
+1 || Pharynx || Rachen
+1 || Phobie || Zwangsangst (z. B. Platzangst)
+1 || Placebo || Scheinmedikament ohne Wirkstoffe
+1 || Plazenta || Mutterkuchen
+1 || Pleuritis || Rippenfellentzündung, Brustfellentzündung
+1 || Pneumonektomie || Operative Entfernung eines Lungenflügels
+1 || Pneumonie || Lungenentzündung
+1 || Pneumothorax || Ansammlung von Luft im Pleuraspalt
+1 || Pollinose || Heuschnupfen
+1 || Präfinal || kurz vor dem Tod
+1 || präventiv || vorbeugend
+2 || Prolaps || Vorfall, Heraustreten von inneren Organen
+1 || Psoriasis || Schuppenflechte
+
+[TABLE 9]
+Häufigkeit || Fachbegriff || Umgangssprache
+1 || Pulmo || Lunge
+1 || Pus || Eiter
+1 || radial || auf den Radius bezogen
+1 || radialis || zur Speiche (Radius) gehörend
+2 || Radiatus || Speiche
+3 || Reflux || Rückfluss
+2 || Rektumexstirpation || chirurgische Entfernung des Mastdarmes
+1 || Resektion || operative Entfernung eines Organs
+1 || Ablatio retinae || Netzhautablösung
+1 || Rh Inkompatibilität || Blutgruppeninkompatibilität
+1 || Sinusitis frontalis || Nasennebenhöhlenentzündung
+1 || Sperma || Samenflüssigkeit
+1 || Spondylitis || Wirbelentzündung
+2 || Stauungsdermatitis || Entzündung der Haut an den Unterschenkeln durch Stauung von Blut und Flüssigkeit
+1 || Sterilität (poly.) || 1. Keimfreiheit 2. Unfruchtbarkeit
+1 || Strabismus || Schielen
+1 || Struma nodosa || Kropf, Schilddrüsenvergrößerung
+1 || Subcutis || Unterhautfettgewebe
+1 || Subluxation || unvollständige Verrenkung
+2 || Sugillation || oberflächlicher Bluterguss
+6 || Supination || Auswärtsdrehung von Hand und Fuß
+1 || Sympathikolyse || Ausschaltung der sympathischen Innervierung
+1 || Synkope || kurze Bewusstlosigkeit
+1 || terminal || final, das Ende betreffend
+1 || terminale | Niereninsuffizienz || finales Nierenversagen
+1 || Thrombozyt || Blutplättchen
+1 || TIA || transitorische ischämische Attacke
+1 || Tibia || Schienbein
+
+[TABLE 10]
+Häufigkeit || Fachbegriff || Umgangssprache
+1 || Tic || Zucken, nicht unterdrückbares Muskelzucken
+1 || Tophus || Knoten (z. B. Gichtknoten)
+2 || toxisch || giftig
+1 || Tranquilizer || beruhigendes Medikament
+1 || Transfusion || Blutübertragung
+1 || transitorische Ischämie || vorübergehende Blutleere
+1 || Tremor || Zittern
+2 || Trigeminusneuralgie || Schmerzanfälle im Bereich des Nervus trigeminus
+3 || Trikuspidalinsuffizienz || Form der Herzklappenfehler
+2 || Ulna || Elle
+1 || Urämie || Anhäufung von harnpflichtigen Stoffen im Blut (sog. Harnvergiftung)
+1 || Valva || Klappe
+1 || Varizelle || Windpocke
+1 || Varizen || erweiterte geschlängelte Venen (sog. Krampfadern)
+2 || Vena Cava inferior || untere Hohlvene
+1 || Vena cava superior || obere Hohlvene
+1 || Venenthrombose || Blutgerinnsel in den Hauptvenen
+2 || ventral || bauchseitig gelegen
+1 || Verstopfung || Obstipation
+2 || Vesica biliaris || Gallenblase
+2 || Vigilanz || Wachheit
+3 || zerebral || zum Gehirn gehörend
+1 || Zerumen || Ohrenschmalz
+3 || Zoster oticus || Gürtelrose
+1 || Zyklothymie || Stimmungsschwankungen
+4 || Zystitis || Blasenentzündung
